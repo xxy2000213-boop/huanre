@@ -1,0 +1,5 @@
+{
+  "name": "干气密封热计算器",
+  "description": "基于动静环参数计算干气密封对流换热系数的专业工程工具。",
+  "requestFramePermissions": []
+}
